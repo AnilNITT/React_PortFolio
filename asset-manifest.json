@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React_PortFolio/static/css/main.266116f2.css",
+    "main.js": "/React_PortFolio/static/js/main.0aa60da5.js",
+    "static/media/me.jpeg": "/React_PortFolio/static/media/me.48fb2a5791abb791f3db.jpeg",
+    "static/media/award.png": "/React_PortFolio/static/media/award.a796a64fbb78cc3a9666.png",
+    "static/media/address.png": "/React_PortFolio/static/media/address.a01cb8cc428702f30bec.png",
+    "static/media/email.png": "/React_PortFolio/static/media/email.a49e015815e3ac6d2bd3.png",
+    "static/media/sun.png": "/React_PortFolio/static/media/sun.f794832ad72b90c61eb7.png",
+    "static/media/phone.png": "/React_PortFolio/static/media/phone.d90a6d23cf5129d853bb.png",
+    "static/media/moon.png": "/React_PortFolio/static/media/moon.3bea3d398a25611d421b.png",
+    "index.html": "/React_PortFolio/index.html",
+    "main.266116f2.css.map": "/React_PortFolio/static/css/main.266116f2.css.map",
+    "main.0aa60da5.js.map": "/React_PortFolio/static/js/main.0aa60da5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.266116f2.css",
+    "static/js/main.0aa60da5.js"
+  ]
+}
